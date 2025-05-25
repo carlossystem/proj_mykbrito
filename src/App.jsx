@@ -35,16 +35,17 @@ const chanelListData =[
     imageUrl:"https://static-cdn.jtvnw.net/jtv_user_pictures/9ce11a2b-ec84-44b1-9c76-b8d29df5fef0-profile_image-150x150.png", 
     alt:"Imagem de Mayk Brito",
     },  
+
+    {
+    href:"https://www.twitch.tv/cellbit",
+    imageUrl:"https://carlossystem.github.io/imagens/imagens/imagem5.jpeg", 
+    alt:"Imagemd de Cellbit",
+    },
     {
     href:"https://www.twitch.tv/alanzoka",
-    imageUrl:"https://static-cdn.jtvnw.net/jtv_user_pictures/15cec952-c1ba-4ff8-a79c-53c2fa5bd269-profile_image-150x150.png", 
+    imageUrl:"https://carlossystem.github.io/imagens/imagens/imagem5.jpeg", 
     alt:"Imagem de Alanzoka",
-    },
-      {
-    href:"https://www.twitch.tv/cellbit",
-    imageUrl:"https://static-cdn.jtvnw.net/jtv_user_pictures/cb885149-f7f7-48f0-99ae-fe0a386ed3e2-profile_image-150x150.png", 
-    alt:"Imagemd de Cellbit",
-      }
+    },      
 ]
 
 const socialLIstData =[
@@ -54,6 +55,7 @@ const socialLIstData =[
     alt:"twich do Myk Brito"
   },
   {
+
     url:"https://instagram.com/maykbrito",
     imageUrl:"/assets/instagram.svg",
     alt:"Instagram do Myk Brito"
